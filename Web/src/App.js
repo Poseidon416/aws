@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
-export default function Resaurant() {
-  return <div className="status">Hello</div>;
+export default function Restaurant() {
+  return <>Hello World!</>;
 }

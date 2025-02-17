@@ -13,3 +13,8 @@ dist/
 
 # logs
 *.log
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*

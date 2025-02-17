@@ -1,2 +1,15 @@
+# dependencies
+node_modules/
+
+# builds
+build/
+dist/
+
+# misc
+.env
 .DS_Store
-*.DS_Store
+.vscode/
+.idea/
+
+# logs
+*.log
